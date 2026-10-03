@@ -7,14 +7,16 @@ Welcome to my personal repository of Artificial Intelligence, Deep Learning, and
 ### 🧠 Deep Learning Foundations & Architectures
 * Back Propagation
 * Neural Networks Basics & Deep Learning Concepts
+* Foundational Models
 * RNN, GRU, and LSTM
 * Sequence to Sequence Models (Seq2Seq)
 
-### 🗣️ Natural Language Processing (NLP)
+### 🗣️ Natural Language Processing (NLP) & Datasets
 * N-Gram Models
 * Word2Vec & Vector Space Models
 * Byte Pair Encoding (BPE)
 * Transformers: BERT, BART
+* Language Models & FineWeb Dataset
 
 ### 👁️ Computer Vision
 * U-Net Architecture & Image Segmentation
